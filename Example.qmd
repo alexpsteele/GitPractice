@@ -1,0 +1,11 @@
+---
+title: Example document
+format: docx
+---
+
+```{r}
+print("Hello")
+```
+```{r}
+getwd()
+```
