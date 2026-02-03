@@ -2,10 +2,11 @@
 title: Example document
 format: docx
 ---
-
+#Introduction
 ```{r}
 print("Hello")
 ```
 ```{r}
 getwd()
 ```
+#Setup
